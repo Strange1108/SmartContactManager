@@ -28,7 +28,7 @@ This learning project aims to create an efficient contact management application
   - HomeController 
   - UserController
   - SearchController
-    - ForgetController
+  - ForgetController
 
   ### Services
   - The services are as follows:
