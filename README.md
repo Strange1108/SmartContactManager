@@ -18,26 +18,26 @@ This learning project aims to create an efficient contact management application
   - [SQLite3](https://www.sqlite.org/index.html) - Embedded database generating a .db file.
 
 ## Data Flow
-  **Model**
-    The `model` package contains the two main classes:
-    - Contact
-    - User
+  ### Model
+  The `model` package contains the two main classes:
+  - Contact
+  - User
       
-  **Controller**
-    - The `controller` package includes the following controllers:
-    - HomeController 
-    - UserController
-    - SearchController
+  ### Controller
+  - The `controller` package includes the following controllers:
+  - HomeController 
+  - UserController
+  - SearchController
     - ForgetController
 
-  **Services**
-    - The services are as follows:
-    - EmailService
+  ### Services
+  - The services are as follows:
+  - EmailService
 
-  **Repository**
-    - The `repo` package contains repository interfaces that extend `JpaRepository` for each model. The interface names are structured as follows:
-    - UserRepository
-    - ContactRepository
+  ### Repository
+  - The `repo` package contains repository interfaces that extend `JpaRepository` for each model. The interface names are structured as follows:
+  - UserRepository
+  - ContactRepository
     
 ## Project Overview
 
