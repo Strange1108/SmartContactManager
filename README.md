@@ -1,3 +1,4 @@
+![image](https://github.com/Strange1108/SmartContactManager/assets/137171724/eaa01387-b45f-4d80-afbf-f56a53a030b5)
 # Contact Management System
 
 This learning project aims to create an efficient contact management application that provides a smarter way of handling contacts with full authentication and authorization features. The project utilizes Spring Boot with Thymeleaf and follows the MVC architecture. For authentication and authorization, Spring Security is employed.
