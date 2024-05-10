@@ -1,8 +1,9 @@
 ![image](https://github.com/Strange1108/SmartContactManager/assets/137171724/8b07bfad-8ef3-4795-ac6f-644b8865ffc4)
-![image](https://github.com/Strange1108/SmartContactManager/assets/137171724/11996be0-07c6-42b4-b024-74814eac46ee)
-![image](https://github.com/Strange1108/SmartContactManager/assets/137171724/88d18fa9-8b39-4ebc-b66f-edb8c5f1726d)
 ![image](https://github.com/Strange1108/SmartContactManager/assets/137171724/fce3239d-698a-4184-ade0-6a11e5b3c2a5)
 ![image](https://github.com/Strange1108/SmartContactManager/assets/137171724/38692bfd-4e00-45fe-a515-6ea94a7250cd)
+![image](https://github.com/Strange1108/SmartContactManager/assets/137171724/11996be0-07c6-42b4-b024-74814eac46ee) 
+![image](https://github.com/Strange1108/SmartContactManager/assets/137171724/88d18fa9-8b39-4ebc-b66f-edb8c5f1726d)
+
 
 
 
